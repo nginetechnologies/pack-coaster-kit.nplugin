@@ -1,0 +1,1 @@
+# pack-coaster-kit.nplugin
