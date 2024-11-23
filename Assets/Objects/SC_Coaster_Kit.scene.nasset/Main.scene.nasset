@@ -1,0 +1,2582 @@
+{
+    "guid": "01935933-be39-7ea1-c203-cd4590733cc2",
+    "source": "../SC_Coaster_Kit.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "01935933-be91-73a1-8911-6c63b8cefa68",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SC Coaster Kit"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be97-7999-46d0-b6ef856a581d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bench"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be97-74a5-d53b-ec341716a1b3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be98-75b1-0c89-69ee122bf178",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Cap Back"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be98-75af-1647-f7a8614b893e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be98-7faf-8ee8-9953d39e9ea9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Cap Front"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be98-7a9a-4b9e-f7f55599f8a1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be98-78a8-d0a5-97d183efe16a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Corner Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be98-7fbd-c1a9-45dc51ae9be1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be98-7cbf-4f43-168e92a99d79",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Corner Large Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be98-7fa6-88c6-ae3119bdc9cf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-76b5-5363-1fb0118f4bba",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Corner Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-74bb-c2d1-b0446a94858b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-7a9f-d682-b8f6958edc89",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Corner Small Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-7889-329c-9e9039dc2329"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-7dad-6cd7-272cc0c020e8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Curve"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-7e91-096e-01ba06ac562f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-7ba6-4cb2-dd020d72e70c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Looping"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-7a90-fb52-22c9ff59130b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-78ad-12dc-e1ce511df3e2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Segment"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-75bd-151a-7bbeab29d185"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-708f-7c16-22c9bf8f0b10",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-7783-da4e-01b8c15595a8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-7ba0-9306-c70a57468d7f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Bend"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-7eac-8fae-7afae48b581b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-71a9-c7f8-bafb0c61e40a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Bend Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-7f99-ba43-6f3aa8348caa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-72b5-3055-9e97160242f7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Bump Down"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-76af-f8e7-d1bfccec58a9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-7c91-e2d4-bb828e03a83a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Bump Up"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-7887-85ae-c87a9d47b088"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-70a4-21e9-1040e650ca45",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Hill Beginning"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-71b9-ed04-e0837de71383"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-7e99-434d-bb35e4054eaf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Hill Complete"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-718a-cc12-c21f67fcf417"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-72a3-489a-8dc4c45c6bd0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Hill Complete Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-7abf-be27-0415fa908541"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-7cb0-dfc7-0e35ebaf3698",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Hill End"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be99-78b8-2c01-ce1922d459fb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be99-7db9-437e-fc874387aec2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Skew Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-75a5-03c6-73d9ae973a31"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-7db9-9f64-6bdabecfa795",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Skew Left Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-7f98-ebca-3b2f2857fde4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-7697-c854-5b90920aa9eb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Skew Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-7aae-e72b-baf373c9ada6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-7a8f-33f3-e12b960be95e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Straight Skew Right Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-73a7-9bde-51048f4ed03f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-778f-7737-af59316f1f93",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Flume Track"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-7c99-6b8e-e54ebd35b7b7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-7e89-0ad8-e7d7d20030e7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Cap Back"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-7690-e9b1-715e51961977"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-759c-9e40-2ed90fee4fab",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Cap Front"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-70ba-696c-8f3d32d81a22"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-7182-65cb-18937aeda869",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Corner Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-7eab-6c36-71fbc75ec9c9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-7ead-09ee-239791e5d6a8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Corner Large Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-7286-51e9-78264df877f0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-7396-76be-10d4d96e29bb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Corner Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-7c96-1b03-3d6acd01c79f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-7695-bd56-90f65b18c9e1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Corner Small Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-77a1-8531-472b4e76e25f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9a-74af-2509-7881d52bd98b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Curve"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9a-7cae-743f-9e777a472ace"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-7aa1-dbae-8e5e565a57cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Looping"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-7681-8f62-c3587857cdca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-7e98-58a4-077bc4d431a5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Segment"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-7f9f-8a07-6966cf7580d9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-73bd-791c-aeb14bc0cd12",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-779b-4eff-8f13723ea90a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-7d85-5645-d7a182c37ac1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Bend"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-71b4-c73e-35e769e44081"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-74bd-69c9-6c5da3ca104c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Bend Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-70b9-1558-cf02f0d521d0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-71bc-8cb8-6b9343b4ef05",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Bump Down"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-7792-3478-43d1822e1341"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-7c8f-019c-eafd8bc1257c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Bump Up"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-7188-c1f6-20d1815a73f2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-70b0-78ed-d4c1d11a728d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Hill Beginning"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-72ad-eab5-96b0b57b14dd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-70be-8ec1-446a7b0f05c7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Hill Complete"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-73ba-4abe-7ddbe97fe6eb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-729a-b2f9-bb12fd595a72",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Hill Complete Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-7b99-2f2c-fb9eba7befc3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-7f93-4353-a9317c9b3af2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Hill End"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9b-7185-114c-f7a80b2770b5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9b-75a4-7a4d-76e61d88385d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Skew Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-728e-4034-633c817bd385"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-7283-9cea-d32a5965cb98",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Skew Left Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-7cbf-e560-6a680be30fb3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-7eb6-8d45-e995fe5a8ed8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Skew Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-7f9c-b194-c3668f19e886"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-7094-0db8-7afc8d82c235",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Straight Skew Right Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-7f92-4b85-075a81b39616"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-7582-d30a-00168ff34889",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Hanging Track"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-709d-1166-818771553a52"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-7189-e100-632067f475e1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Cap Back"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-7cae-9fee-bbbe7f1dd76a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-7faf-f4b5-388f920ea99e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Cap Front"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-7eb3-ccde-ea68e240c0e9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-7588-e234-6c181fbd9baa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Corner Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-72b2-0668-ad1b84ffd117"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-7a97-1b72-11927033a6e6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Corner Large Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-7992-19c3-3b2c5332e980"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-78ab-c70e-cd3aa8530355",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Corner Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-7c9a-7bd9-6d70a7300208"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-75a3-6f11-206f78c23a95",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Corner Small Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-719a-2e2d-aa39e528c307"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-7ebe-542f-eb9c4022d50f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Curve"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9c-7b96-012d-323decb2b895"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9c-7f87-c05a-312d329b4328",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Looping"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-7080-f7d8-fd4ac24d2438"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-7eb4-b3df-d70efcca3b1c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Segment"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-7880-a932-45e99565c652"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-7985-5deb-80edbffdfdae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-7782-ca8f-d397aa9d795f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-74bf-87d0-815431584699",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Bend"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-74a8-a7a8-4262ba63d620"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-72bd-efac-4f0224ca0274",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Bend Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-7ab9-fc9f-aaad2bda1e1d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-7f82-59b5-95347aa81c36",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Bump Down"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-7fa6-3567-cc05612210f6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-7a85-454f-b6e334a99268",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Bump Up"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-7e98-69dd-a1a583ae04e7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-7daf-6370-710a64149d4e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Hill Beginning"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-75b3-5c0a-29708ed8d1c0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-738d-a070-04dab496540f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Hill Complete"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-75be-13a2-8ed25f552f11"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-7b8f-5df1-ac9e7f4d3547",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Hill Complete Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-75b8-5a6e-63e2c63c22f7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-7689-4325-8b99c6e21333",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Hill End"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9d-7382-baaa-93919b18e45b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9d-7295-80a0-416684a30a4d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Skew Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-7dae-2fde-08ba416d6659"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-70be-cbe3-75e581f23b0b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Skew Left Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-769d-7bd3-379d31c2c65a"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-7fa1-7e54-72f8d20f04f2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Skew Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-75a7-6560-a7dfadbe08ac"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-75bf-59b9-3dd0cb0d73a3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Straight Skew Right Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-7d98-38c5-2de843e89518"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-758c-5aca-2014fcb4dc13",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Monorail Track"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-75a0-0edf-fb25ae7e0708"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-7399-da45-3a1ab57b32ab",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Cap Back"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-7dbc-55e2-6724f2c9c0f7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-7faf-8ba1-33cc0b6e0fc9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Cap Front"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-74b9-9b62-1096da8726d3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-78a9-f086-2102a21ed7b8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Corner Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-76b0-0756-5a239af6b6e5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-79a4-7744-19d48ba0962e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Corner Large Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-76a5-d3a2-2f3476201192"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-7384-2a7b-ab20b496f440",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Corner Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-79af-c7d0-d5218fe93e12"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-7280-79d3-2fcd87828ba0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Corner Small Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-7bae-6904-33d07cd3b688"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-77a5-a98d-c57c0745c154",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Curve"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-74bb-d2cd-3c6b349075e0"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-7290-3c5d-70db4b5f1300",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Looping"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-7790-f7ab-2252592dcc21"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-7b9d-b727-fab2b0a0ee65",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Segment"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9e-7c84-8461-9b076f2b752c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9e-788c-4e68-dd8398ec9743",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-7193-640e-af734aba0912"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-78b5-0be6-45b69dd6b326",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Bend"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-79a5-bc3b-8574e786bbc8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-72af-cbb5-d0adec3cda42",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Bend Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-7ea8-13c3-5f36f917119b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-7fab-14d0-b5710918b4c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Bump Down"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-73a5-843f-bd11b21a4199"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-758c-dd8f-f0867192ada9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Bump Up"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-7098-3dd4-641d59137ea8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-7ebf-fd2a-993879578a07",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Hill Beginning"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-7ab0-0c34-59da0c18d6b8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-7295-e172-7ce46d63a1cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Hill Complete"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-798d-cb97-b230d771e1c2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-7e92-e768-2569d1ea3317",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Hill Complete Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-72b0-8642-8cbc6709f383"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-76a2-8d7d-106f7dacf729",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Hill End"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-7796-37ae-ac07936eb06b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-71a3-a788-b92789c06ff5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Skew Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-7fae-2e10-65a5603153de"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-72ab-be6b-976b5a6f4d2f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Skew Left Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-7e85-0dcf-ea8d2a7d4757"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-7fb9-cdcd-5473fd2bd4c2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Skew Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-be9f-74bd-5b29-822ce0d74c6d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-be9f-788a-73ba-f18f6cf52332",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Straight Skew Right Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-7dbb-d1bb-955ab0f729ff"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-7eb4-bd16-685dceff8ac5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Mouse Track"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-74bb-c895-c353c8a16a11"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-7a9a-6d24-d23f13e20237",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Cap Back"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-7698-a47e-ab0f8f81aeaf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-76a7-d103-24bd745c77bf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Cap Front"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-72af-d1d5-107eb0787e22"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-78b6-265c-9ac5ea6cc0ce",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Corner Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-75bd-b9cd-cddfb2f69f7d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-77b4-69f9-5ac59c6eeb86",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Corner Large Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-74ba-d8c7-96f127b16a04"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-728e-3089-2ab46640da09",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Corner Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-7a95-57d1-ebd9a5d70ffa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-7f87-e6a4-c164eb1a7caf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Corner Small Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-7a9f-110e-d941eda274ef"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-7ea7-9fac-1d87ad97d302",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Curve"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-7c80-3359-6750355b5806"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-7da3-4b8c-ca9d08fabf90",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Looping"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-7b8e-972f-94476f591006"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-73ae-c819-e19eaa204b80",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Segment"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-76b5-045b-3cfaff0a4355"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-75a2-334e-9c93aed7d30d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-7385-bfee-0eab642bd674"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-76a5-e1a3-dd3c2775ea66",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Bend"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea0-7293-cf32-5eeb57e59dab"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea0-708c-7740-97d89f50c740",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Bend Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-74a2-89b3-da58547bdcde"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-78a2-683a-fd89a21b6860",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Bump Down"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-77bc-d3ed-15c4bc2279a1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-778c-9cc7-8819b5da4129",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Bump Up"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-749a-029f-89a21a1a2897"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-7ca7-9a8b-00aa6315fc30",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Hill Beginning"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-7eb7-91fa-44790860c66d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-74b9-6e4e-6427fcc931be",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Hill Complete"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-7989-abb3-760084db2150"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-7484-42b5-d7ac69f40119",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Hill Complete Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-7c8c-a9d5-f263f0c43f57"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-72b8-905e-7fc1a4046bff",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Hill End"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-76a8-238f-f34d0f248394"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-7192-3a83-d764c6e97a5c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Skew Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-769b-f12f-c9471bb5ffd1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-76b6-9357-0670c1cafac3",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Skew Left Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-71b9-9ae4-f07cba568c30"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-71a9-053e-42e931f84f5a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Skew Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-7baa-3056-a1fd81fb640d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-749c-4f49-70fe644ffa7a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Straight Skew Right Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-7e9b-a2a8-b322d3652055"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-7080-892b-d67a304b6f49",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Steel Track"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-77a2-0cb2-fa07f1ce5d94"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-7ea9-f50d-abd40bd76ee7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Train"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-72a6-0760-71b7c72a2d68"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-76bd-51f0-caa43bacb6de",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Train Front"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-7fbf-07c2-68fdeb81fbc5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea1-7098-5459-cc3c059a6e7f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Train Hanging"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea1-7e90-7601-32381cb61c25"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-76a0-e02d-d538031d6441",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Train Safety"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-70a2-f6dd-5fd05167ebe5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-7ea8-47c9-a7a970c4a9c5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Train Wooden"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-7e94-db45-c660dfee72b7"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-76ae-c11c-3cd3fe8b1925",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Corner Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-76a8-fd0b-fc6835561631"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-73a9-9ade-89c134ec91c1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Corner Large Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-72be-4838-8e74b930865b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-7aa4-6441-84a9b47f904e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Corner Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-7ab7-fcb7-10c14e5bcb6c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-7695-5de1-949d869fd586",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Corner Small Ramp"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-73be-809a-546974d3bd9f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-7cb1-785a-b142b1a34290",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Curve"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-7898-0f89-a9ed628e75d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-7d90-8142-6363256855c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Looping"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-788c-e517-54e377f3101e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-72ae-2081-ba2c86bd445f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Segment"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-759c-5a4f-1e243994e768"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-7d82-734e-790fd53cc348",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-79b1-1c08-612120f59fad"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-7b8d-6d0b-fad7fb861d2c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Bend"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-7897-d37b-4d4930596baa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-7184-e652-2d0f33e20ca4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Bend Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-799f-ffd2-5ce5651697e8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-72b1-70b6-dfcbfc821ce7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Bump Down"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-70b0-3372-6def821e5165"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-72a2-ae40-75363d517543",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Bump Up"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea2-7abf-eae5-bd3d982dab63"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea2-79bc-97b7-8fa661b4fb38",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Hill Beginning"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-7c80-c6fa-44d7726a6e32"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-738e-e75a-fc47620fc425",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Hill Complete"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-7ab5-07b9-05af23b02fcb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-78ba-7e12-44bbb7477ab5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Hill Complete Half"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-7ea7-589e-bf7f4bd025e5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-798a-c886-cd018386e727",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Hill End"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-7f88-5e17-b7f11b0126b8"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-7ab7-de26-9c40532c2a29",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Skew Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-76b5-c2fa-e39bdefd2b2f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-72bf-0edf-ac298a1576d8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Skew Left Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-749d-0234-88453d5ba5b6"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-749b-9712-cf0eddd035d0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Skew Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-73b1-fd28-078d0c8ff2e2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-75b8-16fd-47cb16a0d4a4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Straight Skew Right Side"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-7983-b331-5f4d8aba5826"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-77aa-572a-b5052dad9d4d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Coaster Wood Track"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-7e99-e095-5753d98324d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-71bc-42f8-e9838c3b901c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Flowers"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-7ab5-3eea-005be161ceca"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-7a9b-c8dd-c51b2bf762cf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-71ac-0513-29aadf554315"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-769c-4d01-b0100794153e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Park Entrance"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-7d93-a1e6-e0000974ba99"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-7fa0-c566-f2094f389c01",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-778f-6138-782dbc88d3ed"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-769f-69ec-b0544c5ab0c6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path Crossing"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-7395-3a7c-4bb1f1d04ffa"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea3-7ab8-afc2-6b0fd36ba98e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path Exit"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea3-7085-d935-d991a2955359"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-74a7-90a0-57b3c9081dc2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path Split"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-7c88-1533-7ffd6f538a58"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-75b4-6d31-6c9665f522b2",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path Steps"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-76be-4521-f89506e16811"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-7694-1636-31aa173aea40",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Path Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-7f94-3ca5-d85c483ed160"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-7583-7f5f-d8ce66afb600",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Queue Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-7aa9-316a-576fada8eee4"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-78ae-1010-0b84855cd284",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Queue Crossing"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-7997-6b53-837fa6967ce3"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-7c90-0193-978765d5ff2e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Queue Entrance"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-7e9f-3a48-ea27a81e1db1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-7090-d6b4-261525a9d0ec",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Queue Split"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-77b6-4748-f2f39d2e0614"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-779a-90de-daceeff22bb1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Queue Steps"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-7a9d-afaf-682c9677bc58"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-7ea8-2343-202429f1c8e8",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Queue Straight"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-7283-fa72-7530ad0a1aac"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-73b4-f255-1772574f7f4a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ride Entrance"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-73a7-4051-47d82941e568"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-768b-173d-1da00d52dd29",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ride Exit"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-72ab-4019-16f4d8c3d050"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-758f-6972-b1cddda73d53",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stall Drinks"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-7095-3a79-4b8112507399"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-768b-d3a1-553410c22013",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stall Food"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-7896-6f55-e2468a4df4fe"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea4-769f-d526-1fcb7e65f038",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stall Information"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea4-7db6-866e-8de2af256d87"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-7386-d6ea-f5613a5d5a9b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Stall Toilets"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-7f92-990a-a7d63ae6e024"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-7783-beff-49889d9f4aed",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Station"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-7685-7d53-30c676407464"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-70a1-a5a7-4ae0045cec9e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Station Fence"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-779a-0681-1db00c6d91bc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-7fbd-7e07-65522e4e044a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Station Gate"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-7e92-2b5a-5b8e2863cc63"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-7383-9354-71c2d03f16dd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-7781-b89e-dca82c409e49"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-75b9-6cff-7b2d5bc91a20",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Large Bottom"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-718f-d168-760706ffc222"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-7f86-626c-c1067848738b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Large Horizontal"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-7797-f753-189f3e5a8512"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-788b-d906-d56851ac37c5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Large Horizontal Ring"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-70ae-a709-a6de7d9911d9"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-75a0-f71f-37f5c754a964",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Large Skew"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-7f92-f631-23194647ec26"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-7a9c-a172-fc54ed5e8d59",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Large Skew Bottom"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-7194-0301-3e8b96594932"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-7d83-60f4-1e09a5811bb7",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Small"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-7791-96dd-5fb05be8bc7f"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-7593-c98a-353b125e3249",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Small Bottom"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-72bd-5d51-170c30d82402"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-7b80-e56d-004473d814ad",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Small Horizontal"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea5-7b89-a66f-5c1b46da8b50"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea5-78a4-6db1-f1b2a0491b08",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Small Horizontal Ring"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea6-76b0-4660-0bf758287f70"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea6-7c8d-d361-303a894be3ef",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Small Skew"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea6-76a5-d0bc-3552d6f80398"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea6-798e-dff4-e03ad457671e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Support Small Skew Bottom"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea6-7ba2-00a8-437c9b3c8e1b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea6-7cb2-5991-985e4ecbd3c1",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Log Flume"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea6-7690-0290-c2b0c2737ddc"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea6-77ad-02cf-8221142efc95",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Train Monorail"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea6-7dbe-a5ed-f6b83f32c005"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea6-7880-036f-5c1cfe694e36",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Trash"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea6-7594-850b-4f446a3a6ccb"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea6-7ab2-c1f9-ba7e9a3610f0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea6-74b9-bbf6-5287ed181e78"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "01935933-bea6-7589-d94e-38d0a9ee911c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Tree Large"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "01935933-bea6-75bc-9e43-c2eba0a1efc7"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "01935933-be39-7ea1-c203-cd4590733cc2"
+    },
+    "dependencies": [
+        "01935933-be97-74a5-d53b-ec341716a1b3",
+        "01935933-be98-75af-1647-f7a8614b893e",
+        "01935933-be98-7a9a-4b9e-f7f55599f8a1",
+        "01935933-be98-7fbd-c1a9-45dc51ae9be1",
+        "01935933-be98-7fa6-88c6-ae3119bdc9cf",
+        "01935933-be99-74bb-c2d1-b0446a94858b",
+        "01935933-be99-7889-329c-9e9039dc2329",
+        "01935933-be99-7e91-096e-01ba06ac562f",
+        "01935933-be99-7a90-fb52-22c9ff59130b",
+        "01935933-be99-75bd-151a-7bbeab29d185",
+        "01935933-be99-7783-da4e-01b8c15595a8",
+        "01935933-be99-7eac-8fae-7afae48b581b",
+        "01935933-be99-7f99-ba43-6f3aa8348caa",
+        "01935933-be99-76af-f8e7-d1bfccec58a9",
+        "01935933-be99-7887-85ae-c87a9d47b088",
+        "01935933-be99-71b9-ed04-e0837de71383",
+        "01935933-be99-718a-cc12-c21f67fcf417",
+        "01935933-be99-7abf-be27-0415fa908541",
+        "01935933-be99-78b8-2c01-ce1922d459fb",
+        "01935933-be9a-75a5-03c6-73d9ae973a31",
+        "01935933-be9a-7f98-ebca-3b2f2857fde4",
+        "01935933-be9a-7aae-e72b-baf373c9ada6",
+        "01935933-be9a-73a7-9bde-51048f4ed03f",
+        "01935933-be9a-7c99-6b8e-e54ebd35b7b7",
+        "01935933-be9a-7690-e9b1-715e51961977",
+        "01935933-be9a-70ba-696c-8f3d32d81a22",
+        "01935933-be9a-7eab-6c36-71fbc75ec9c9",
+        "01935933-be9a-7286-51e9-78264df877f0",
+        "01935933-be9a-7c96-1b03-3d6acd01c79f",
+        "01935933-be9a-77a1-8531-472b4e76e25f",
+        "01935933-be9a-7cae-743f-9e777a472ace",
+        "01935933-be9b-7681-8f62-c3587857cdca",
+        "01935933-be9b-7f9f-8a07-6966cf7580d9",
+        "01935933-be9b-779b-4eff-8f13723ea90a",
+        "01935933-be9b-71b4-c73e-35e769e44081",
+        "01935933-be9b-70b9-1558-cf02f0d521d0",
+        "01935933-be9b-7792-3478-43d1822e1341",
+        "01935933-be9b-7188-c1f6-20d1815a73f2",
+        "01935933-be9b-72ad-eab5-96b0b57b14dd",
+        "01935933-be9b-73ba-4abe-7ddbe97fe6eb",
+        "01935933-be9b-7b99-2f2c-fb9eba7befc3",
+        "01935933-be9b-7185-114c-f7a80b2770b5",
+        "01935933-be9c-728e-4034-633c817bd385",
+        "01935933-be9c-7cbf-e560-6a680be30fb3",
+        "01935933-be9c-7f9c-b194-c3668f19e886",
+        "01935933-be9c-7f92-4b85-075a81b39616",
+        "01935933-be9c-709d-1166-818771553a52",
+        "01935933-be9c-7cae-9fee-bbbe7f1dd76a",
+        "01935933-be9c-7eb3-ccde-ea68e240c0e9",
+        "01935933-be9c-72b2-0668-ad1b84ffd117",
+        "01935933-be9c-7992-19c3-3b2c5332e980",
+        "01935933-be9c-7c9a-7bd9-6d70a7300208",
+        "01935933-be9c-719a-2e2d-aa39e528c307",
+        "01935933-be9c-7b96-012d-323decb2b895",
+        "01935933-be9d-7080-f7d8-fd4ac24d2438",
+        "01935933-be9d-7880-a932-45e99565c652",
+        "01935933-be9d-7782-ca8f-d397aa9d795f",
+        "01935933-be9d-74a8-a7a8-4262ba63d620",
+        "01935933-be9d-7ab9-fc9f-aaad2bda1e1d",
+        "01935933-be9d-7fa6-3567-cc05612210f6",
+        "01935933-be9d-7e98-69dd-a1a583ae04e7",
+        "01935933-be9d-75b3-5c0a-29708ed8d1c0",
+        "01935933-be9d-75be-13a2-8ed25f552f11",
+        "01935933-be9d-75b8-5a6e-63e2c63c22f7",
+        "01935933-be9d-7382-baaa-93919b18e45b",
+        "01935933-be9e-7dae-2fde-08ba416d6659",
+        "01935933-be9e-769d-7bd3-379d31c2c65a",
+        "01935933-be9e-75a7-6560-a7dfadbe08ac",
+        "01935933-be9e-7d98-38c5-2de843e89518",
+        "01935933-be9e-75a0-0edf-fb25ae7e0708",
+        "01935933-be9e-7dbc-55e2-6724f2c9c0f7",
+        "01935933-be9e-74b9-9b62-1096da8726d3",
+        "01935933-be9e-76b0-0756-5a239af6b6e5",
+        "01935933-be9e-76a5-d3a2-2f3476201192",
+        "01935933-be9e-79af-c7d0-d5218fe93e12",
+        "01935933-be9e-7bae-6904-33d07cd3b688",
+        "01935933-be9e-74bb-d2cd-3c6b349075e0",
+        "01935933-be9e-7790-f7ab-2252592dcc21",
+        "01935933-be9e-7c84-8461-9b076f2b752c",
+        "01935933-be9f-7193-640e-af734aba0912",
+        "01935933-be9f-79a5-bc3b-8574e786bbc8",
+        "01935933-be9f-7ea8-13c3-5f36f917119b",
+        "01935933-be9f-73a5-843f-bd11b21a4199",
+        "01935933-be9f-7098-3dd4-641d59137ea8",
+        "01935933-be9f-7ab0-0c34-59da0c18d6b8",
+        "01935933-be9f-798d-cb97-b230d771e1c2",
+        "01935933-be9f-72b0-8642-8cbc6709f383",
+        "01935933-be9f-7796-37ae-ac07936eb06b",
+        "01935933-be9f-7fae-2e10-65a5603153de",
+        "01935933-be9f-7e85-0dcf-ea8d2a7d4757",
+        "01935933-be9f-74bd-5b29-822ce0d74c6d",
+        "01935933-bea0-7dbb-d1bb-955ab0f729ff",
+        "01935933-bea0-74bb-c895-c353c8a16a11",
+        "01935933-bea0-7698-a47e-ab0f8f81aeaf",
+        "01935933-bea0-72af-d1d5-107eb0787e22",
+        "01935933-bea0-75bd-b9cd-cddfb2f69f7d",
+        "01935933-bea0-74ba-d8c7-96f127b16a04",
+        "01935933-bea0-7a95-57d1-ebd9a5d70ffa",
+        "01935933-bea0-7a9f-110e-d941eda274ef",
+        "01935933-bea0-7c80-3359-6750355b5806",
+        "01935933-bea0-7b8e-972f-94476f591006",
+        "01935933-bea0-76b5-045b-3cfaff0a4355",
+        "01935933-bea0-7385-bfee-0eab642bd674",
+        "01935933-bea0-7293-cf32-5eeb57e59dab",
+        "01935933-bea1-74a2-89b3-da58547bdcde",
+        "01935933-bea1-77bc-d3ed-15c4bc2279a1",
+        "01935933-bea1-749a-029f-89a21a1a2897",
+        "01935933-bea1-7eb7-91fa-44790860c66d",
+        "01935933-bea1-7989-abb3-760084db2150",
+        "01935933-bea1-7c8c-a9d5-f263f0c43f57",
+        "01935933-bea1-76a8-238f-f34d0f248394",
+        "01935933-bea1-769b-f12f-c9471bb5ffd1",
+        "01935933-bea1-71b9-9ae4-f07cba568c30",
+        "01935933-bea1-7baa-3056-a1fd81fb640d",
+        "01935933-bea1-7e9b-a2a8-b322d3652055",
+        "01935933-bea1-77a2-0cb2-fa07f1ce5d94",
+        "01935933-bea1-72a6-0760-71b7c72a2d68",
+        "01935933-bea1-7fbf-07c2-68fdeb81fbc5",
+        "01935933-bea1-7e90-7601-32381cb61c25",
+        "01935933-bea2-70a2-f6dd-5fd05167ebe5",
+        "01935933-bea2-7e94-db45-c660dfee72b7",
+        "01935933-bea2-76a8-fd0b-fc6835561631",
+        "01935933-bea2-72be-4838-8e74b930865b",
+        "01935933-bea2-7ab7-fcb7-10c14e5bcb6c",
+        "01935933-bea2-73be-809a-546974d3bd9f",
+        "01935933-bea2-7898-0f89-a9ed628e75d1",
+        "01935933-bea2-788c-e517-54e377f3101e",
+        "01935933-bea2-759c-5a4f-1e243994e768",
+        "01935933-bea2-79b1-1c08-612120f59fad",
+        "01935933-bea2-7897-d37b-4d4930596baa",
+        "01935933-bea2-799f-ffd2-5ce5651697e8",
+        "01935933-bea2-70b0-3372-6def821e5165",
+        "01935933-bea2-7abf-eae5-bd3d982dab63",
+        "01935933-bea3-7c80-c6fa-44d7726a6e32",
+        "01935933-bea3-7ab5-07b9-05af23b02fcb",
+        "01935933-bea3-7ea7-589e-bf7f4bd025e5",
+        "01935933-bea3-7f88-5e17-b7f11b0126b8",
+        "01935933-bea3-76b5-c2fa-e39bdefd2b2f",
+        "01935933-bea3-749d-0234-88453d5ba5b6",
+        "01935933-bea3-73b1-fd28-078d0c8ff2e2",
+        "01935933-bea3-7983-b331-5f4d8aba5826",
+        "01935933-bea3-7e99-e095-5753d98324d1",
+        "01935933-bea3-7ab5-3eea-005be161ceca",
+        "01935933-bea3-71ac-0513-29aadf554315",
+        "01935933-bea3-7d93-a1e6-e0000974ba99",
+        "01935933-bea3-778f-6138-782dbc88d3ed",
+        "01935933-bea3-7395-3a7c-4bb1f1d04ffa",
+        "01935933-bea3-7085-d935-d991a2955359",
+        "01935933-bea4-7c88-1533-7ffd6f538a58",
+        "01935933-bea4-76be-4521-f89506e16811",
+        "01935933-bea4-7f94-3ca5-d85c483ed160",
+        "01935933-bea4-7aa9-316a-576fada8eee4",
+        "01935933-bea4-7997-6b53-837fa6967ce3",
+        "01935933-bea4-7e9f-3a48-ea27a81e1db1",
+        "01935933-bea4-77b6-4748-f2f39d2e0614",
+        "01935933-bea4-7a9d-afaf-682c9677bc58",
+        "01935933-bea4-7283-fa72-7530ad0a1aac",
+        "01935933-bea4-73a7-4051-47d82941e568",
+        "01935933-bea4-72ab-4019-16f4d8c3d050",
+        "01935933-bea4-7095-3a79-4b8112507399",
+        "01935933-bea4-7896-6f55-e2468a4df4fe",
+        "01935933-bea4-7db6-866e-8de2af256d87",
+        "01935933-bea5-7f92-990a-a7d63ae6e024",
+        "01935933-bea5-7685-7d53-30c676407464",
+        "01935933-bea5-779a-0681-1db00c6d91bc",
+        "01935933-bea5-7e92-2b5a-5b8e2863cc63",
+        "01935933-bea5-7781-b89e-dca82c409e49",
+        "01935933-bea5-718f-d168-760706ffc222",
+        "01935933-bea5-7797-f753-189f3e5a8512",
+        "01935933-bea5-70ae-a709-a6de7d9911d9",
+        "01935933-bea5-7f92-f631-23194647ec26",
+        "01935933-bea5-7194-0301-3e8b96594932",
+        "01935933-bea5-7791-96dd-5fb05be8bc7f",
+        "01935933-bea5-72bd-5d51-170c30d82402",
+        "01935933-bea5-7b89-a66f-5c1b46da8b50",
+        "01935933-bea6-76b0-4660-0bf758287f70",
+        "01935933-bea6-76a5-d0bc-3552d6f80398",
+        "01935933-bea6-7ba2-00a8-437c9b3c8e1b",
+        "01935933-bea6-7690-0290-c2b0c2737ddc",
+        "01935933-bea6-7dbe-a5ed-f6b83f32c005",
+        "01935933-bea6-7594-850b-4f446a3a6ccb",
+        "01935933-bea6-74b9-bbf6-5287ed181e78",
+        "01935933-bea6-75bc-9e43-c2eba0a1efc7"
+    ]
+}
